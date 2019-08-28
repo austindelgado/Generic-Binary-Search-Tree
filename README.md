@@ -5,4 +5,4 @@ Includes functions for:
 - Insert
 - Delete
 - Contains
-- inorder, postorder, and preorder print
+- Inorder, postorder, and preorder print
