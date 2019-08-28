@@ -1,5 +1,5 @@
 # Generic-Binary-Search-Tree
-Basic Binary Search Tree that supports any comparable object.
+Basic Java Binary Search Tree that supports any comparable object.
 
 Includes functions for:
 - Insert
